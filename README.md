@@ -63,8 +63,7 @@ Hey there, my name is Lukas.<br>Computer Science and Software Analysis and Devel
 ## 📊 GitHub Stats:
 <img
 src="https://github-readme-stats.vercel.app/api?username=lukxsz&show_icons=true&theme=blue_navy&bg_color=00000000&include_all_commits=true&count_private=false"
-/>
-
+/><br>
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukxsz&theme=blue_navy&&bg_color=00000000&include_all_commits=false&count_private=false&hide_progress=true"
 />
