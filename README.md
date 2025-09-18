@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, my name is Lukas.<br>Computer Science and Software Analysis and Development Student.<br>Backend Developer.<br>Learning Java.
+Hey there, my name is Lukas.<br>Computer Science and Software Analysis and Development Student.<br>Backend Developer.<br>
 
 
 ## 💻 Tech Stack:
